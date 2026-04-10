@@ -9,6 +9,8 @@ public class Utility {
 		
 	}
 	public void m1() {
-		System.out.println("Utility M1() method:: abcd");
+
+		System.out.println("Utility M1() method :: 1234");
+
 	}
 }
